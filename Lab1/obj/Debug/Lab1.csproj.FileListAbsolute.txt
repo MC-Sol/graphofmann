@@ -1,0 +1,59 @@
+G:\универ\4 курс\Случайные процессы\Lab1\Lab1\bin\Debug\Lab1.exe.config
+G:\универ\4 курс\Случайные процессы\Lab1\Lab1\bin\Debug\Lab1.exe
+G:\универ\4 курс\Случайные процессы\Lab1\Lab1\bin\Debug\Lab1.pdb
+G:\универ\4 курс\Случайные процессы\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+G:\универ\4 курс\Случайные процессы\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+G:\универ\4 курс\Случайные процессы\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+G:\универ\4 курс\Случайные процессы\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+G:\универ\4 курс\Случайные процессы\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+G:\универ\4 курс\Случайные процессы\Lab1\Lab1\obj\Debug\Lab1.exe
+G:\универ\4 курс\Случайные процессы\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\olisnyak\Desktop\lab\Lab1RandomProcess\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\olisnyak\Desktop\lab\Lab1RandomProcess\Lab1\bin\Debug\Lab1.exe
+C:\Users\olisnyak\Desktop\lab\Lab1RandomProcess\Lab1\bin\Debug\Lab1.pdb
+C:\Users\olisnyak\Desktop\lab\Lab1RandomProcess\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\olisnyak\Desktop\lab\Lab1RandomProcess\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\olisnyak\Desktop\lab\Lab1RandomProcess\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\olisnyak\Desktop\lab\Lab1RandomProcess\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\olisnyak\Desktop\lab\Lab1RandomProcess\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\olisnyak\Desktop\lab\Lab1RandomProcess\Lab1\obj\Debug\Lab1.exe
+C:\Users\olisnyak\Desktop\lab\Lab1RandomProcess\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Юля\Desktop\лаба\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Юля\Desktop\лаба\Lab1\bin\Debug\Lab1.exe
+C:\Users\Юля\Desktop\лаба\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Юля\Desktop\лаба\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Юля\Desktop\лаба\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Юля\Desktop\лаба\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Юля\Desktop\лаба\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Юля\Desktop\лаба\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\лаба\Lab1\obj\Debug\Lab1.exe
+C:\Users\Юля\Desktop\лаба\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Юля\Desktop\4 курс\лаба\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Юля\Desktop\4 курс\лаба\Lab1\bin\Debug\Lab1.exe
+C:\Users\Юля\Desktop\4 курс\лаба\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Юля\Desktop\4 курс\лаба\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Юля\Desktop\4 курс\лаба\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Юля\Desktop\4 курс\лаба\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Юля\Desktop\4 курс\лаба\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Юля\Desktop\4 курс\лаба\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\4 курс\лаба\Lab1\obj\Debug\Lab1.exe
+C:\Users\Юля\Desktop\4 курс\лаба\Lab1\obj\Debug\Lab1.pdb
+D:\лаба\Lab1\bin\Debug\Lab1.exe.config
+D:\лаба\Lab1\bin\Debug\Lab1.exe
+D:\лаба\Lab1\bin\Debug\Lab1.pdb
+D:\лаба\Lab1\obj\Debug\Lab1.Form1.resources
+D:\лаба\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\лаба\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\лаба\Lab1\obj\Debug\Lab1.exe
+D:\лаба\Lab1\obj\Debug\Lab1.pdb
+E:\лаба\Lab1\bin\Debug\Lab1.exe.config
+E:\лаба\Lab1\bin\Debug\Lab1.exe
+E:\лаба\Lab1\bin\Debug\Lab1.pdb
+E:\лаба\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+E:\лаба\Lab1\obj\Debug\Lab1.Form1.resources
+E:\лаба\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+E:\лаба\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+E:\лаба\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\лаба\Lab1\obj\Debug\Lab1.exe
+E:\лаба\Lab1\obj\Debug\Lab1.pdb
+D:\лаба\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
